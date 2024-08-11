@@ -1,0 +1,6 @@
+mkdir soon-to-be-a-github-repo
+cd soon-to-be-a-github-repo
+git status
+git init
+git checkout -b read-me-feature
+git config --global --add safe.directory '%(prefix)///192.168.1.157/workspace/soon-to-be-a-github-repo'
